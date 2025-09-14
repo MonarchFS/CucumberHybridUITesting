@@ -6,48 +6,18 @@ It demonstrates my ability to design **scalable, maintainable test automation** 
 
 ## 📂 Project Structure
 
-CucumberHybFrameworkDemoCart/
-│
-├── src/main/java/
-│   ├── pages/                           # Page Object classes (UI elements & actions)
-│   │   ├── AccountPage.java
-│   │   ├── AccountSuccessPage.java
-│   │   ├── HomePage.java
-│   │   ├── LoginPage.java
-│   │   ├── RegisterPage.java
-│   │   └── SearchResultPage.java
-│   │
-│   └── utility/                         # Utility classes (helpers & common methods)
-│       ├── CommonUtils.java
-│       ├── ConfigReader.java
-│       └── ElementUtils.java
-│
-├── src/test/java/
-│   ├── factory/                         # WebDriver factory setup
-│   │   └── DriverFactory.java
-│   │
-│   ├── hooks/                           # Hooks for @Before / @After scenarios
-│   │   └── MyHooks.java
-│   │
-│   ├── runner/                          # Test runner (Cucumber + TestNG/JUnit)
-│   │   └── TestRunner.java
-│   │
-│   └── stepDefinitions/                 # Step definition classes
-│       ├── Login.java
-│       ├── Register.java
-│       └── Search.java
-│
-├── src/test/resources/
-│   ├── config/                          # Configurations (URLs, environment data)
-│   │   └── config.properties
-│   │
-│   └── features/                        # Gherkin feature files (BDD scenarios)
-│       ├── Login.feature
-│       ├── Register.feature
-│       └── Search.feature
-│
-├── pom.xml                              # Maven build file (dependencies, plugins)
-└── README.md                            # Project description (framework details)
+## 📂 Project Structure
+
+- **pages/** → Page Object classes that represent UI pages and elements.  
+- **utility/** → Helper classes for common functionality (e.g., config reader, element utils).  
+- **factory/** → DriverFactory handles WebDriver initialization and setup.  
+- **hooks/** → Contains `MyHooks.java` for Cucumber `@Before` and `@After` hooks.  
+- **runner/** → Entry point for running Cucumber tests (`TestRunner.java`).  
+- **stepDefinitions/** → Glue code that connects feature steps to Java methods.  
+- **features/** → Cucumber feature files written in Gherkin syntax.  
+- **config/** → Configuration file (`config.properties`) for test environment settings.  
+- **pom.xml** → Maven dependencies (Selenium, Cucumber, JUnit Cucumber Reports, etc.).  
+
 
 
 ---
