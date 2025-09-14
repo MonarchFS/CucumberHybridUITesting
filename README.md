@@ -4,7 +4,6 @@ This repository is a **portfolio showcase** of a Cucumber Hybrid Framework I bui
 It demonstrates my ability to design **scalable, maintainable test automation** using Java, Selenium, and Cucumber.
 
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
