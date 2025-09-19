@@ -66,4 +66,4 @@ This is **not a full production codebase**, but a **showcase** of:
 - Best practices in test automation  
 
 
-👉 For a full walkthrough, feel free to connect with me on [LinkedIn](www.linkedin.com/in/indrajit-poddar-68a0b1372).
+👉 For a full walkthrough, feel free to connect with me on [LinkedIn Profile](https://www.linkedin.com/in/indrajit-poddar-68a0b1372)
