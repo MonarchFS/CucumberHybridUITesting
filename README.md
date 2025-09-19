@@ -55,6 +55,9 @@ It demonstrates my ability to design **scalable, maintainable test automation** 
 ### Jenkins Pipeline
 ![Folder Structure Screenshot](./screenshots/Project-structure.png)
 
+### Cucmber Cloud Report Link
+![Report Link](./Reports/latest-report-link.md)
+
 ---
 
 ## 🔹 Why This Repo?
