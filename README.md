@@ -52,7 +52,7 @@ It demonstrates my ability to design **scalable, maintainable test automation** 
 ### Cucumber HTML Report
 ![Cucumber Report](./screenshots/cucumber_report.png)
 
-### Jenkins Pipeline
+### Maven project Structure
 ![Folder Structure Screenshot](./screenshots/Project-structure.png)
 
 ### Cucmber Cloud Report Link
