@@ -56,7 +56,7 @@ It demonstrates my ability to design **scalable, maintainable test automation** 
 ![Folder Structure Screenshot](./screenshots/Project-structure.png)
 
 ### Cucmber Cloud Report Link
-![Report Link](./Reports/latest-report-link.md)
+[View the latest Cucumber Cloud report link here](./Reports/latest-report-link.md)
 
 ---
 
