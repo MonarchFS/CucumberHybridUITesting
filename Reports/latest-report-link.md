@@ -1,3 +1,3 @@
 ## Latest Cucumber Cloud Report
 You can view the latest Cucumber Cloud report here:
-[https://reports.cucumber.io/reports/cc56487f-fb00-45b4-8aea-ecf9c2ed490c](https://reports.cucumber.io/reports/cc56487f-fb00-45b4-8aea-ecf9c2ed490c)
+[https://reports.cucumber.io/reports/8ec40b9e-7dfd-4487-a839-e2647a527d71](https://reports.cucumber.io/reports/8ec40b9e-7dfd-4487-a839-e2647a527d71)
